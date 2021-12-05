@@ -1,4 +1,5 @@
 ### Hi there 👋
+Myself Chirantan Banik currently a second-year B.Tech(CSE) student at Sikkim Manipal Institute of Technology. I'm the type of person who enjoys trying new things and taking on new challenges. I'm always on the lookout for new chances. Exploring and learning about fields such as Android and Web development.
 
 - 🔭 I’m currently working on exceling my skills and building myself.
 - 🌱 I’m currently learning Android and Web Development.
