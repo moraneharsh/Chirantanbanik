@@ -13,6 +13,7 @@ Myself Chirantan Banik currently a second-year B.Tech(CSE) student at Sikkim Man
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirantanbanik&show_icons=true&locale=en&layout=compact" alt="chirantanbanik" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirantanbanik&show_icons=true&locale=en" alt="chirantanbanik" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirantanbanik&" alt="chirantanbanik" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=chirantanbanik&theme=github" alt="chirantanbanik" /></p>
 
 
 
