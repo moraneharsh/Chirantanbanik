@@ -8,6 +8,7 @@ Myself Chirantan Banik currently a second-year B.Tech(CSE) student at Sikkim Man
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirantanbanik&label=Profile%20views&color=0e75b6&style=flat" alt="chirantanbanik" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirantanbanik&show_icons=true&locale=en&layout=compact" alt="chirantanbanik" />
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirantanbanik&show_icons=true&locale=en" alt="chirantanbanik" /></p>
