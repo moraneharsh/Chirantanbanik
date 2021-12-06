@@ -11,6 +11,8 @@ Myself Chirantan Banik currently a second-year B.Tech(CSE) student at Sikkim Man
 <a href="https://linkedin.com/in/chirantanbanik-3403401a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirantanbanik-3403401a1/" height="30" width="40" /></a>
 <a href="https://instagram.com/banik_chirantan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banik_chirantan" height="30" width="40" /></a>
 <a href="https://dev.to/chirantanbanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chirantanbanik" height="30" width="40" /></a>
+<a href="https://medium.com/@chirantanbanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chirantanbanik" height="30" width="40" /></a>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirantanbanik&label=Profile%20views&color=0e75b6&style=flat" alt="chirantanbanik" /> </p>
