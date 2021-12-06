@@ -8,7 +8,7 @@ Myself Chirantan Banik currently a second-year B.Tech(CSE) student at Sikkim Man
  [banikchirantan16@gmail.com](Mail%20-%20banikchirantan16@gmail.com) 
 
 <a href="https://twitter.com/chirantan_banik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chirantan_banik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chirantanbanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirantanbanik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chirantanbanik-3403401a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirantanbanik-3403401a1/" height="30" width="40" /></a>
 <a href="https://instagram.com/banik_chirantan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banik_chirantan" height="30" width="40" /></a>
 <a href="https://dev.to/chirantanbanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chirantanbanik" height="30" width="40" /></a>
 
