@@ -4,6 +4,7 @@
 - 🔭 *I’m currently working on exceling my skills and building myself.*
 - 🌱 *I’m currently learning Android and Web Development.*
 - 💬 *Ask me about Development, Content Creation and life.*
+- ⚡ *Fun fact: I think I am funny xD*
 - 📫 *How to reach me:
  [banikchirantan16@gmail.com](Mail%20-%20banikchirantan16@gmail.com)*
  
