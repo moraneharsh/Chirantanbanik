@@ -20,7 +20,7 @@
 <a href= https://github.com/chirantanbanik?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 
 
-## **My other Profiles** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+## **My other Profiles**<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <a href="https://instagram.com/banik_chirantan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banik_chirantan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chirantanbanik-3403401a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirantanbanik-3403401a1/" height="30" width="40" /></a>
@@ -30,7 +30,7 @@
 <a href="https://dev.to/chirantanbanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chirantanbanik" height="30" width="40" /></a>
 
 
-## **Github Stats**
+## **My Github Stats** <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirantanbanik)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirantanbanik&show_icons=true&locale=en" alt="chirantanbanik" /></p>
