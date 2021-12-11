@@ -20,6 +20,8 @@ Myself Chirantan Banik currently a second-year B.Tech(CSE) student at Sikkim Man
 <a href="https://dev.to/chirantanbanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chirantanbanik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chirantanbanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chirantanbanik" height="30" width="40" /></a>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='30' width='40'>](https://open.spotify.com/show/77r4SjXKF5iy9khi79ge3P)  
+
 ## ***Github Stats***
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirantanbanik&show_icons=true&locale=en&layout=compact" alt="chirantanbanik" />
