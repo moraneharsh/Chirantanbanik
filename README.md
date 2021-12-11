@@ -8,7 +8,9 @@ Myself Chirantan Banik currently a second-year B.Tech(CSE) student at Sikkim Man
  [banikchirantan16@gmail.com](Mail%20-%20banikchirantan16@gmail.com) 
  
  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+ <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>  </a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirantanbanik&label=Profile%20views&color=0e75b6&style=flat" alt="chirantanbanik" /> </p>
+
 
 ## ***My other Profiles***
 
@@ -24,6 +26,9 @@ Myself Chirantan Banik currently a second-year B.Tech(CSE) student at Sikkim Man
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirantanbanik&show_icons=true&locale=en" alt="chirantanbanik" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirantanbanik&" alt="chirantanbanik" /></p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=chirantanbanik&theme=github" alt="chirantanbanik" /></p>
+
+
+
 
 
 
