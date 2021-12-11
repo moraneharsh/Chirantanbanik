@@ -22,7 +22,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='30' width='40'>](https://open.spotify.com/show/77r4SjXKF5iy9khi79ge3P)  
 
-## ***Github Stats***
+## **Github Stats**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirantanbanik)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirantanbanik&show_icons=true&locale=en" alt="chirantanbanik" /></p>
