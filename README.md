@@ -10,7 +10,7 @@
 - 📫 *How to reach me:
  [banikchirantan16@gmail.com](Mail%20-%20banikchirantan16@gmail.com)*
  
- 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirantanbanik&label=Profile%20views&color=0e75b6&style=flat" alt="chirantanbanik" /> </p>
  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
  
  
@@ -39,8 +39,7 @@
 
 ## <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chirantanbanik&label=Profile%20views&color=0e75b6&style=flat" alt="chirantanbanik" /> </p>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark) 
 
 
 
