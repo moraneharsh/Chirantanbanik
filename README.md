@@ -1,7 +1,7 @@
 ## Hello People <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
  
-*Myself Chirantan Banik currently a second-year B.Tech(CSE) student at Sikkim Manipal Institute of Technology. I'm the type of person who enjoys trying new things and taking on new challenges. Exploring and learning about fields such as Android and Web development. Experiencing a beautiful flim called Life*
+*Myself Chirantan Banik currently a second-year B.Tech(CSE) student at Sikkim Manipal Institute of Technology. I'm the type of person who enjoys trying new things and taking on new challenges. Exploring and learning about fields such as Android and Full Stack Development. Experiencing a beautiful flim called Life*
 
 - 🔭 *I’m currently working on exceling my skills and building myself.*
 - 🌱 *I’m currently learning Android and Web Development.*
